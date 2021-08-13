@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "imessage-7b6a0"
+  },
+  "targets": {
+    "imessage-7b6a0": {
+      "hosting": {
+        "ps-imessage": [
+          "iMessage",
+          "imessage"
+        ],
+        "imessage": [
+          "ps-imessage"
+        ]
+      }
+    }
+  }
+}
